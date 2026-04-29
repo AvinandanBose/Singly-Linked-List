@@ -1,6 +1,4 @@
-Here is a **proper, structured README.md** based directly on your uploaded PDF content (theory + code explanations + concepts):
 
----
 
 # 📌 Singly Linked List
 
