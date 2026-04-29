@@ -156,3 +156,10 @@ This project is licensed under the **MIT License**.
 
 **Avinandan Bose**
 - GitHub: [@AvinandanBose](https://github.com/AvinandanBose)
+
+<br>
+<br>
+<br>
+<h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/singlylinkedlist.cpp">𝑨. 𝑺𝒊𝒏𝒈𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑺𝒕𝒓𝒖𝒄𝒕 </a>  𝒊𝒏 <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/">𝑪++ 𝑫𝒂𝒕𝒂 𝑺𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒆 𝑹𝒆𝒑𝒐</a></h3>
+
+<h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/singlyLinkedListWithClass.cpp">𝑩. 𝑺𝒊𝒏𝒈𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑪𝒍𝒂𝒔𝒔 </a> 𝒊𝒏 <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/">𝑪++ 𝑫𝒂𝒕𝒂 𝑺𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒆 𝑹𝒆𝒑𝒐</a></h3>
